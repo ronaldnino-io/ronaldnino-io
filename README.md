@@ -1,5 +1,5 @@
 ### Hola 👋
-![Ronald Niño](img/ronaldnino.png)
+![Ronald Niño](img/head.png)
 <!--
 **ronaldnino-io/ronaldnino-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
